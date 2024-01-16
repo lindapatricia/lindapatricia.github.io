@@ -1,7 +1,6 @@
 {
   "admob": {
     "adIds": [
-      "appOpen"
     ],
     "banner": "ca-app-pub-2299291161271404/6295679529",
     "interstitial": "ca-app-pub-2299291161271404/5772155093",
@@ -12,7 +11,6 @@
   },
   "applovin": {
     "adIds": [
-      "appOpen"
     ],
     "banner": "db49b392c505f2d9",
     "interstitial": "98eb1e835ebcfc34",
