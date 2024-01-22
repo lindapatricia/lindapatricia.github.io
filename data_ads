@@ -1,16 +1,20 @@
 {
   "admob": {
     "adIds": [
+      "appOpen",
+      "native"
     ],
     "banner": "ca-app-pub-2299291161271404/6295679529",
     "interstitial": "ca-app-pub-2299291161271404/5772155093",
     "splash": "ca-app-pub-2299291161271404/4459073428",
     "native": "ca-app-pub-2299291161271404/9993900311",
-    "appOpen": "ca-app-pub-2299291161271404/8374267707",
+    "appOpen": "ca-app-pub-2299291161271404/1876209902",
     "reward": "ca-app-pub-2299291161271404/3699954708"
   },
   "applovin": {
     "adIds": [
+      "appOpen",
+      "native"
     ],
     "banner": "db49b392c505f2d9",
     "interstitial": "98eb1e835ebcfc34",
